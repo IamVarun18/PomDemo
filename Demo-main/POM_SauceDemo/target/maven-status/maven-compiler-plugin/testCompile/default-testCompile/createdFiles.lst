@@ -1,0 +1,7 @@
+pages\SelectProductPage.class
+pages\LoginPage.class
+utils\Base.class
+utils\Reporter.class
+utils\PropertyReader.class
+tests\PlaceOrderTest.class
+objectRepository\Locators.class
